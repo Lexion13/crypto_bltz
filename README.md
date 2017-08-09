@@ -5,3 +5,6 @@ DB
 run mongodb
     $./mogod
 
+run this program
+    $python main.py
+    
